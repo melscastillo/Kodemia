@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: lightblue;
+}
+h1{
+    text-shadow: 3px 3px 3px black
+}
+.perro{
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.gato{
+    border: 3px solid white;
+    font-weight: bold;
+    border-radius: 10px;
+    background:rgba(121, 206, 255, 0.521)
+}
+.first-square{
+    border-radius: 10px;
+    background-color: rgb(121, 206, 255);
+    box-shadow: 0px 5px 10px white;
+}
+.principal{
+    color:white;
+    background: mediumaquamarine;
+}
+.btn:hover{
+    background-color: yellowgreen;
+}
